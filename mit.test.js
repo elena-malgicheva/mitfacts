@@ -1,5 +1,6 @@
-var utils  = require('course-utilities');
-var mit = utils.load('./mit.js', 'mit');
+// var utils  = require('course-utilities');
+// var mit = utils.load('./mit.js', 'mit');
+const mit = require('./mit');
 
 describe('MIT', () => {
 
